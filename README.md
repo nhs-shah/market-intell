@@ -1,5 +1,5 @@
 ## **1. Project Overview**
-**MindKet** is an end-to-end data science solution that correlates competitor pricing strategies with customer sentiment. By integrating **Transformers**, **Deep Learning**, and **Machine Learning**, the system identifies market gaps and predicts price elasticity to help businesses optimize their revenue.
+**Marketics** is an end-to-end data science solution that correlates competitor pricing strategies with customer sentiment. By integrating **Transformers**, **Deep Learning**, and **Machine Learning**, the system identifies market gaps and predicts price elasticity to help businesses optimize their revenue.
 
 ## **2. Key Features**
 *   **Automated ETL Pipeline:** Uses Apache Airflow to orchestrate scrapers that collect structured price data and unstructured reviews.
