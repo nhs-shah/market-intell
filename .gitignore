@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+venv/
+.env
+
+# Data & Logs (keep repo light)
+data/
+logs/
+*.csv
+*.parquet
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
