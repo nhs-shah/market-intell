@@ -1,9 +1,3 @@
-### **README.md: MindKet Intelligence Engine**
-
-This README provides a technical overview and setup guide for **MindKet**, an automated competitor intelligence platform designed to transform raw e-commerce and social media data into actionable business insights.
-
----
-
 ## **1. Project Overview**
 **MindKet** is an end-to-end data science solution that correlates competitor pricing strategies with customer sentiment. By integrating **Transformers**, **Deep Learning**, and **Machine Learning**, the system identifies market gaps and predicts price elasticity to help businesses optimize their revenue.
 
